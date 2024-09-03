@@ -15,7 +15,7 @@ Gemini-Talk is an empathetic voice assistant powered by Google's Gemini 1.5 Pro 
 
 - Gemini 1.5 Pro: Advanced AI model for natural language processing and generation
 - ElevenLabs TTS: High-quality text-to-speech conversion
-- Local Endpointer Model: Manages conversation turn-taking
+- Local silero-vad Endpointer Model: Manages conversation turn-taking
 
 ## Prerequisites
 
