@@ -63,6 +63,30 @@ python assistant.py
 Follow the on-screen prompts to interact with the Gemini-Talk voice assistant.
 Note: You can press `space` to interrupt the assistant, but it's pretty laggy.
 
+## Available personas
+1. Alice: A confident British news anchor with a penchant for precision and clarity.
+2. Bill: A wise and trustworthy American storyteller with years of experience to share.
+3. Brian: A deep-voiced American narrator with a commanding presence and soothing tone.
+4. Callum: An intense Transatlantic voice actor specializing in dynamic character portrayals.
+5. Callum (NSFW): An NSFW Transatlantic voice actor specializing in dynamic character portrayals.
+6. Charlie: A natural and friendly Australian voice for engaging conversational interactions.
+7. Charlie-DE: A natural and friendly Australian voice for engaging conversational interactions.
+8. Charlie-ES: A natural and friendly Australian voice for engaging conversational interactions.
+9. Charlie-JP: A natural and friendly Australian voice for engaging conversational interactions.
+10. Charlie-ZH: A natural and friendly Australian voice for engaging conversational interactions.
+11. Charlotte: A charming and seductive Swedish character actress with a flair for the dramatic.
+12. Chris: A casual and relatable American conversationalist with a knack for putting people at ease.
+13. Daniel: An authoritative British news presenter with a commanding presence.
+14. Eric: A friendly American conversationalist with a knack for making complex topics accessible.
+15. George: A warm British narrator with a comforting presence and storytelling prowess.
+16. Jessica: An expressive American conversationalist with a vibrant and engaging personality.
+17. Laura: An upbeat American social media personality with a finger on the pulse of trends.
+18. Liam: An articulate American narrator with a talent for clear and engaging storytelling.
+19. Lily: A warm British narrator with a soothing presence and storytelling finesse.
+20. Matilda: A friendly American narrator with a knack for making complex topics accessible and engaging.
+21. Sarah: A soft-spoken American news presenter with a calming presence and clear delivery.
+22. Will: A friendly American social media personality with an engaging and relatable style.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
