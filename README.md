@@ -70,10 +70,10 @@ Note: You can press `space` to interrupt the assistant, but it's pretty laggy.
 4. Callum: An intense Transatlantic voice actor specializing in dynamic character portrayals.
 5. Callum (NSFW): An NSFW Transatlantic voice actor specializing in dynamic character portrayals.
 6. Charlie: A natural and friendly Australian voice for engaging conversational interactions.
-7. Charlie-DE: A natural and friendly Australian voice for engaging conversational interactions.
-8. Charlie-ES: A natural and friendly Australian voice for engaging conversational interactions.
-9. Charlie-JP: A natural and friendly Australian voice for engaging conversational interactions.
-10. Charlie-ZH: A natural and friendly Australian voice for engaging conversational interactions.
+7. Charlie-DE: A natural and friendly German voice for engaging conversational interactions.
+8. Charlie-ES: A natural and friendly Spanish voice for engaging conversational interactions.
+9. Charlie-JP: A natural and friendly Japanese voice for engaging conversational interactions.
+10. Charlie-ZH: A natural and friendly Mandarin Chinese voice for engaging conversational interactions.
 11. Charlotte: A charming and seductive Swedish character actress with a flair for the dramatic.
 12. Chris: A casual and relatable American conversationalist with a knack for putting people at ease.
 13. Daniel: An authoritative British news presenter with a commanding presence.
