@@ -61,6 +61,7 @@ python assistant.py
 ```
 
 Follow the on-screen prompts to interact with the Gemini-Talk voice assistant.
+Note: You can press `space` to interrupt the assistant, but it's pretty laggy.
 
 ## Contributing
 
