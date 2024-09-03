@@ -187,6 +187,7 @@ def text_to_speech_stream(text_queue, persona):
         text=text_generator(),
         voice=persona['elevenlabs_voice'],
         model=persona['elevenlabs_model'],
+        optimize_streaming_latency=1,
         stream=True
     )
 
